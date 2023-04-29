@@ -1,1 +1,1 @@
-# LDD
+# Leaf Desease detection
